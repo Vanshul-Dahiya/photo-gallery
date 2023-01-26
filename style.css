@@ -54,6 +54,8 @@ h2 {
   border: none;
   box-shadow: 2px 5px 8px;
   background-color: whitesmoke;
+  margin-top: 15px;
+  margin-bottom: 30px;
 }
 
 .btn:hover {
@@ -64,11 +66,11 @@ h2 {
 }
 
 .gallery img {
-  width: 300px;
-  height: 400px;
+  width: 360px;
+  height: 250px;
   object-fit: cover;
   border-radius: 8px;
-  margin: 6px;
+  margin: 8px;
 }
 
 .gallery {
